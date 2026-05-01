@@ -4,7 +4,7 @@ The following tutorial is meant for be a step by step process to get familiar wi
 
 ### 1. Login to your Github account
 ![0_gittutorial.png](0_gittutorial.png)
-### 2. Click on the *Pitt-IshiharaLab* organization
+### 2. Click on the *Ishihara-SynthMorph* organization
 ![1_gittutorial.png](1_gittutorial.png)
 ### 3. Authenticate your *pitt id*
 ![2_gittutorial.png](2_gittutorial.png)

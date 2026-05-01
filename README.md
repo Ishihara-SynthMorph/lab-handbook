@@ -43,7 +43,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
-- [ ] Join [Pitt-IshiharaLab](https://github.com/Pitt-IshiharaLab) Github group. (Ask Keisuke for CDS membership).
+- [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group. (Ask Keisuke for CDS membership).
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
 # 4. Communication and Laboratory Etiquette
@@ -74,7 +74,7 @@ Mark your vacation/absence days on the lab calendar. If you plan to be be away f
 ## Member responsibilities
 
 - **1-1 meeting summaries (All members):** After each 1-1 meeting with Keisuke, please email a brief summary of the discussion and any action items by the end of the next business day. This helps Keisuke and the lab member to follow up on any items and prepare for the next meeting.
-- **Documentation and record keeping (All members)**: You are required to document all your research activities. *Good documentation will allow others and your future self to follow your work.* If you do not have a strong preference, Keisuke recommends Lab Archives Electronic Lab Notebook ([Ishihara Lab Common](https://mynotebook.labarchives.com/share/Ishihara%2520lab%2520Common%2520Notebook/MC4wfDkzOTEyMS8wL1RyZWVOb2RlLzMyMjE0NDg1ODF8MC4w) for wet lab work and [Ishihara Lab Github](https://github.com/Pitt-IshiharaLab) for code. Please ask Keisuke for access and an introduction. If you prefer physical lab notebooks, you must periodically scan and upload your entries to Lab Archives or the group's OneDrive folder.
+- **Documentation and record keeping (All members)**: You are required to document all your research activities. *Good documentation will allow others and your future self to follow your work.* If you do not have a strong preference, Keisuke recommends Lab Archives Electronic Lab Notebook ([Ishihara Lab Common](https://mynotebook.labarchives.com/share/Ishihara%2520lab%2520Common%2520Notebook/MC4wfDkzOTEyMS8wL1RyZWVOb2RlLzMyMjE0NDg1ODF8MC4w) for wet lab work and [Ishihara Lab Github](https://github.com/Ishihara-SynthMorph) for code. Please ask Keisuke for access and an introduction. If you prefer physical lab notebooks, you must periodically scan and upload your entries to Lab Archives or the group's OneDrive folder.
 - **CSB seminar attendance (PhD students 2nd year and above):** You are expected to attend all CSB departmental seminars as part of your training. If you do not attend regularly, the lab will not fund your attendance to external conferences.
 
 
