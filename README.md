@@ -34,7 +34,6 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Get building access to BST3 and Murdoch by filling out the [CSB Access Request Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQ0dRQVRFTDZJRFAxVE4yTUVIWTEwMUpBQy4u). Wait 2-3 days for access. If the form or your card does not work, please contact [Jennifer Watt](jcwatt@pitt.edu).
 - [ ] Join departmental mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
 - [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
-
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
@@ -43,11 +42,9 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Set up **Secure Pitt Print** (uniFLOW), the university-wide printing system:
-  1. Go to [secureprint.pitt.edu](https://secureprint.pitt.edu) and log in with Pitt SSO.
-  2. Click **Start Printing** in the left sidebar and download the installer for your OS (Windows or macOS). Install it and restart your computer. A printer named **"Pitt Secure Printing"** will appear in your print dialogs.
-     - On a university-managed Mac/Windows, use **Self Service** / **Software Center** instead.
-  3. Register your Pitt ID card at any Canon print station on campus: tap your card on the reader, enter your [uniFLOW PIN](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=1155) if prompted, verify your name, then log out and tap again to confirm.
-  4. To print: select **"Pitt Secure Printing"** from any app → walk to a Canon station → tap your ID → release your job → log out.
+  1. Go to [secureprint.pitt.edu](https://secureprint.pitt.edu) and download the installer for your OS (Windows or macOS). Install it.
+  3. Register your Pitt ID card at a print station. Tap your card on the reader, enter your [uniFLOW PIN](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=1155).
+  4. To print: select **"Pitt Secure Printing"** from any app → walk to a print station → tap your ID → release your job → log out.
 - [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group. (Ask Keisuke for CDS membership).
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
