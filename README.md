@@ -43,7 +43,9 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
-- [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group. (Ask Keisuke for CDS membership).
+- [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group.
+	- If you already have a personal Github account, [request an invitation](https://services.pitt.edu/TDClient/33/Portal/KB/Article/430/GitHub-Enterprise-at-Pitt) to join University of Pittsburgh enterprise group.
+	- After you join or create an account with Pitt credentials, ask Keisuke for membership to Ishihara-SynthMorph.
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
 # 4. Communication and Laboratory Etiquette
