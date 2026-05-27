@@ -42,7 +42,12 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Join Ishihara lab mailing list (ask Keisuke).
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
-- [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
+- [ ] Set up **Secure Pitt Print** (uniFLOW), the university-wide printing system:
+  1. Go to [secureprint.pitt.edu](https://secureprint.pitt.edu) and log in with Pitt SSO.
+  2. Click **Start Printing** in the left sidebar and download the installer for your OS (Windows or macOS). Install it and restart your computer. A printer named **"Pitt Secure Printing"** will appear in your print dialogs.
+     - On a university-managed Mac/Windows, use **Self Service** / **Software Center** instead.
+  3. Register your Pitt ID card at any Canon print station on campus: tap your card on the reader, enter your [uniFLOW PIN](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=1155) if prompted, verify your name, then log out and tap again to confirm.
+  4. To print: select **"Pitt Secure Printing"** from any app → walk to a Canon station → tap your ID → release your job → log out.
 - [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group. (Ask Keisuke for CDS membership).
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
