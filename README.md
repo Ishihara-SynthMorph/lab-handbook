@@ -46,7 +46,9 @@ We are committed to creating a diverse team that is inclusive to all cultural an
   3. Register your Pitt ID card at a print station. Tap your card on the reader, enter your [uniFLOW PIN](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=1155).
   4. To print: select **"Pitt Secure Printing"** from any app → walk to a print station → tap your ID → release your job → log out.
   > **Note:** The uniFLOW software must be running in the background for Pitt Secure Print to communicate with the network printer.
-- [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group. (Ask Keisuke for CDS membership).
+- [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group.
+	- If you already have a personal Github account, [request an invitation](https://services.pitt.edu/TDClient/33/Portal/KB/Article/430/GitHub-Enterprise-at-Pitt) to join University of Pittsburgh enterprise group.
+	- After you join or create an account with Pitt credentials, ask Keisuke for membership to Ishihara-SynthMorph.
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
 # 4. Communication and Laboratory Etiquette
