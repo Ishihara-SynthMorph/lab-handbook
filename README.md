@@ -45,6 +45,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
   1. Go to [secureprint.pitt.edu](https://secureprint.pitt.edu) and download the installer for your OS (Windows or macOS). Install it.
   3. Register your Pitt ID card at a print station. Tap your card on the reader, enter your [uniFLOW PIN](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=1155).
   4. To print: select **"Pitt Secure Printing"** from any app → walk to a print station → tap your ID → release your job → log out.
+  > **Note:** The uniFLOW software must be running in the background for Pitt Secure Print to communicate with the network printer.
 - [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group. (Ask Keisuke for CDS membership).
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
