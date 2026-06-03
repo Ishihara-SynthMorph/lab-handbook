@@ -34,7 +34,6 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Get building access to BST3 and Murdoch by filling out the [CSB Access Request Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQ0dRQVRFTDZJRFAxVE4yTUVIWTEwMUpBQy4u). Wait 2-3 days for access. If the form or your card does not work, please contact [Jennifer Watt](jcwatt@pitt.edu).
 - [ ] Join departmental mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
 - [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
-
 - [ ] Join Slack groups (Ask Keisuke or others for invite.)
 	- IshiharaLab
 	- Compbiopitt
@@ -42,7 +41,11 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Join Ishihara lab mailing list (ask Keisuke).
 - [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
-- [ ] Install printers in BST3 ([instructions](https://sites.pitt.edu/~gengkon/)). 
+- [ ] Set up **Secure Pitt Print** (uniFLOW), the university-wide printing system:
+  1. Go to [secureprint.pitt.edu](https://secureprint.pitt.edu) and download the installer for your OS (Windows or macOS). Install it.
+  3. Register your Pitt ID card at a print station. Tap your card on the reader, enter your [uniFLOW PIN](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=1155).
+  4. To print: select **"Pitt Secure Printing"** from any app → walk to a print station → tap your ID → release your job → log out.
+  > **Note:** The uniFLOW software must be running in the background for Pitt Secure Print to communicate with the network printer.
 - [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group.
 	- If you already have a personal Github account, [request an invitation](https://services.pitt.edu/TDClient/33/Portal/KB/Article/430/GitHub-Enterprise-at-Pitt) to join University of Pittsburgh enterprise group.
 	- After you join or create an account with Pitt credentials, ask Keisuke for membership to Ishihara-SynthMorph.
