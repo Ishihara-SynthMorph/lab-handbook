@@ -6,6 +6,7 @@
 - Luisa Escobar-Robledo | CPCB PhD student
 - Yajushi Khurana | CPCB PhD student
 - Elijah Vangura | Undergraduate Student
+- Qianzhi Deng | COBB MS Student
 - Deekshita Behara | COBB MS Student
 
 ## Alumni
