@@ -6,8 +6,8 @@
 - Luisa Escobar-Robledo | CPCB PhD student
 - Yajushi Khurana | CPCB PhD student
 - Elijah Vangura | Undergraduate Student
-
 - James Hsieh | Computational Biology High School Student
+- Deekshita Behara | COBB MS Student
 
 ## Alumni
 ### Undergraduate Students
