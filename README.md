@@ -3,7 +3,7 @@
 <!-- Table of Contents will be auto-generated here -->
 
 # 1. Welcome
-You've recently joined the Ishihara lab in the University of Pittsburgh’s Department of Computational and Systems Biology.
+You've recently joined the [Ishihara lab](https://www.ishiharalab.bio/) in the University of Pittsburgh’s [Department of Computational and Systems Biology](https://www.csb.pitt.edu/).
 We're excited to have you as part of the team!
 We hope that you'll learn a lot about stem cells, tissue engineering, biological physics, microscopy, and computational biology, develop new skills (wet lab, data analysis, writing, presenting), make new colleagues and friends, and enjoy the whole process.
 
@@ -105,6 +105,8 @@ We understand that unexpected emergencies arise and you cannot work as you had p
 
 # 5. Resources and useful links
 
+- [Ishihara lab website](https://www.ishiharalab.bio/)
+- [Department of Computational and Systems Biology](https://www.csb.pitt.edu/)
 - [Undergraduate fellowships](https://www.frederickhonors.pitt.edu/academics/research-and-creative-fellowships) offered by David C. Frederick Honors College
 - [Summer Undergraduate Research Awards](https://www.asundergrad.pitt.edu/research/research-opportunities/summer-undergraduate-research-awards) offered by Office of Undergraduate Research
 - [Departmental computing cluster, HPC](https://www.csb.pitt.edu/resources/)
