@@ -8,6 +8,7 @@
 - Elijah Vangura | Undergraduate Student
 - Qianzhi Deng | COBB MS Student
 - Deekshita Behara | COBB MS Student
+- Nehal Sharma | Physics PhD Student
 
 ## Alumni
 ### Undergraduate Students
