@@ -34,12 +34,17 @@ We are committed to creating a diverse team that is inclusive to all cultural an
 - [ ] Get building access to the Fifth and Halket building by filling out the [Fifth and Halket Building Access Request Form](https://forms.cloud.microsoft/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DSLv1OIJN6pMpZ0LOVlyP3hUREs5T0dPVElSSkFWUkFRVTZUSUpGQlQyVy4u&route=shorturl). Wait 2-3 days for access. If the form or your card does not work, please contact [Jennifer Watt](jcwatt@pitt.edu).
 - [ ] Join departmental mailing list via  [CSB Email List Subscription Form](https://forms.office.com/pages/responsepage.aspx?id=ifT5nqDg606HzDpSYRL9DdzwsnPuT99GkKDXIhKUpDlUQVk2QTRIMUxQM0lHUU5WTFJGWjU4V1k5Uy4u).
 - [ ] Join [CSB Department's sharepoint site](https://pitt.sharepoint.com/sites/ProjectB).
-- [ ] Join Slack groups (Ask Keisuke or others for invite.)
-	- IshiharaLab
-	- Compbiopitt
-	- Pittsburgh Assembloids ([website](https://www.pghassembloid.org/))
-- [ ] Join Ishihara lab mailing list (ask Keisuke).
-- [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive > ReadMe)
+- [ ] Join the following groups (Ask Keisuke or others for invite.)
+	- Slack - IshiharaLab
+	- Slack - Compbiopitt
+	- Slack - Pittsburgh Assembloids ([website](https://www.pghassembloid.org/))
+	- Mailing list - Ishihara lab
+	- Mailing list - CPCB seminars
+	- Outlook Calendar - CQ1 microscope, if applicable
+	- Outlook Calendar - Fuji workstation, if applicable
+	- LabArchive - Ishihara lab Common Notebook
+	- IT - CSB VPN, Active Directory Group, Github (Keisuke requests Gengkon)
+- [ ] Add Ishihara lab shared folder to OneDrive. ([Site](https://pitt.sharepoint.com/sites/ishiharalab2/SitePages/CollabHome.aspx) > Documents > Add shortcut to your OneDrive)
 - [ ] Complete [LabMembersInfo](https://docs.google.com/spreadsheets/d/1gm7NiiYUaOu9xGvc94AHQDnNEBrtlLbd7ZU5bwCZrD8/edit?usp=sharing) including the schedule tab.
 - [ ] Set up **Secure Pitt Print** (uniFLOW), the university-wide printing system:
   1. Go to [secureprint.pitt.edu](https://secureprint.pitt.edu) and download the installer for your OS (Windows or macOS). Install it.
@@ -48,7 +53,7 @@ We are committed to creating a diverse team that is inclusive to all cultural an
   > **Note:** The uniFLOW software must be running in the background for Pitt Secure Print to communicate with the network printer.
 - [ ] Join [Ishihara-SynthMorph](https://github.com/Ishihara-SynthMorph) Github group.
 	- If you already have a personal Github account, [request an invitation](https://services.pitt.edu/TDClient/33/Portal/KB/Article/430/GitHub-Enterprise-at-Pitt) to join University of Pittsburgh enterprise group.
-	- After you join or create an account with Pitt credentials, ask Keisuke for membership to Ishihara-SynthMorph.
+	- After you join or create an account with Pitt credentials, ask Keisuke for membership to Ishihara-SynthMorph and ishiharalab-general.
 - [ ] Add your name to this repository's [LabMembers.md](LabMembers.md) following the [Ishihara Lab Git Tutorial](GitTutorial/IshiharaLabGitTutorial.md).
 
 # 4. Communication and Laboratory Etiquette
