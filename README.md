@@ -116,3 +116,8 @@ We understand that unexpected emergencies arise and you cannot work as you had p
 - [Summer Undergraduate Research Awards](https://www.asundergrad.pitt.edu/research/research-opportunities/summer-undergraduate-research-awards) offered by Office of Undergraduate Research
 - [Departmental computing cluster, HPC](https://www.csb.pitt.edu/resources/)
 - [Travel awards available to School of Medicine graduate students](https://somgrad.pitt.edu/current-students)
+
+### Bioimage analysis
+
+- [BioImage Analysis Notebooks](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/)
+- [Bioimaging AI (Janelia)](https://bioimagingai.janelia.org/)
